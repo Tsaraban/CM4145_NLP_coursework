@@ -31,4 +31,5 @@ This repository is for my 4th year Natural language processing coursework, where
 *Here’s the Harvard reference for that Kaggle notebook:
 - Lee, Y.J. (n.d.) Model evaluation: Classification metrics. Kaggle. Available at: https://www.kaggle.com/code/leeyj0511/model-evaluation-1-classification-metrics (Accessed: 22 November 2025).
 
-
+## Author
+Saraban Tanha, Computer Science, Robert Gordon University
